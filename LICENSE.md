@@ -1,0 +1,1 @@
+Copyright (c) Waseda University. & WIZARD,INC.
